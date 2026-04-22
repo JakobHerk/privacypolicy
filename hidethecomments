@@ -1,0 +1,41 @@
+# Privacy Policy
+
+**Last updated: April 22, 2026**
+
+## Overview
+
+Hide The Comments is a Safari extension that hides comment sections on YouTube and Reddit. This privacy policy explains how the extension handles your data.
+
+## Data Collection
+
+Hide The Comments does not collect, store, transmit, or share any personal data. The extension has no backend, no servers, and no analytics.
+
+## How It Works
+
+The extension runs entirely on your device. It injects a small script into YouTube and Reddit pages that hides comment sections using CSS. No information about your browsing activity, the pages you visit, or your interactions is ever recorded or sent anywhere.
+
+## Permissions
+
+The extension requests the following permissions:
+
+- **Active Tab** — required to apply the comment-hiding script to the current page. This permission does not allow the extension to read page content or transmit any data.
+
+## Third Parties
+
+Hide The Comments does not use any third-party SDKs, analytics tools, advertising networks, or tracking services.
+
+## Private Browsing
+
+The extension can optionally be enabled in Private Browsing mode. When running in a private tab, the same privacy principles apply — no data is collected or stored.
+
+## Children's Privacy
+
+Hide The Comments does not collect data from anyone, including children under the age of 13.
+
+## Changes to This Policy
+
+If this policy changes in a future version, the updated policy will be made available on this page with a revised date.
+
+## Contact
+
+If you have any questions about this privacy policy, please contact us at [your email address].
